@@ -1,6 +1,6 @@
 {
     "editor.fontSize": 18,
-    "workbench.iconTheme": "vscode-icons",
+    "workbench.iconTheme": "material-icon-theme",
     "workbench.editor.autoLockGroups": {
         "vscode-interactive-input": true
     },

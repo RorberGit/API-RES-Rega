@@ -104,11 +104,5 @@ export class SistemaReg {
   repartir: string;
 
   @Column({ type: 'varchar', length: 200, default: '' })
-  file: string;
-
-  @CreateDateColumn()
-  createdDate: Date;
-
-  @UpdateDateColumn()
-  updatedDate: Date;
+  file: string;  
 }
